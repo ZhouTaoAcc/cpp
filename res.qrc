@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/image">
-        <file>image/u=153010587,567888075&amp;fm=26&amp;gp=0.jpg</file>
-        <file>image/u=1141836627,849927273&amp;fm=26&amp;gp=0.jpg</file>
-        <file>image/u=2239330132,1573019942&amp;fm=11&amp;gp=0.jpg</file>
-        <file>image/u=2258448874,2961755779&amp;fm=26&amp;gp=0.jpg</file>
-        <file>image/u=3621601441,2365839092&amp;fm=26&amp;gp=0.jpg</file>
-    </qresource>
-</RCC>
